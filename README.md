@@ -1,4 +1,4 @@
-# Born2BeRoot 🧑🏽‍💻
+# Born2BeRoot Bonus 🧑🏽‍💻
 
 As part of the 'Born 2 be root' project, for the final part of the bonus tasks, we were required to implement a service of our choice. 
 
