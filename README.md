@@ -17,6 +17,6 @@ Express.js: It's a web application framework for Node.js that simplifies buildin
 
 After installing Node.js, you can set up Express.js by using npm (Node Package Manager).
 
-Run npm install express in your terminal/command prompt within your project directory to install Express.js.
+Run "npm install express" in your terminal/command prompt within your project directory to install Express.js.
 
 Once you have Node.js installed and Express.js set up, you can create your Node.js server and utilize Express.js to handle routing, middleware, and more for your application.
